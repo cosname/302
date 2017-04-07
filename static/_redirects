@@ -1,4 +1,8 @@
 /mathjax/latest/*   https://cdn.bootcss.com/mathjax/2.7.0/:splat   302
 /mathjax/*          https://cdn.bootcss.com/mathjax/:splat         302
+
 /highlight.js/latest/*   https://cdn.bootcss.com/highlight.js/9.10.0/:splat   302
 /highlight.js/*          https://cdn.bootcss.com/highlight.js/:splat          302
+
+/font-awesome/latest/*   https://cdn.bootcss.com/font-awesome/4.7.0/:splat    302
+/font-awesome/*          https://cdn.bootcss.com/font-awesome/:splat          302
