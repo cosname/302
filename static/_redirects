@@ -9,5 +9,5 @@
 /font-awesome/latest/*   https://cdn.bootcss.com/font-awesome/4.7.0/:splat    302
 /font-awesome/*          https://cdn.bootcss.com/font-awesome/:splat          302
 
-https://yixuan.cos.name/*   https://yixuan.blog/:splat  301
-http://yixuan.cos.name/*    https://yixuan.blog/:splat  301
+https://yixuan.cos.name/*   https://yixuan.blog/:splat  301!
+http://yixuan.cos.name/*    https://yixuan.blog/:splat  301!
